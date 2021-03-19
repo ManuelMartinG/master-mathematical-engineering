@@ -1,2 +1,1 @@
-# master-mathematical-engineneering
-Projects from Master in Computational and Mathematical Engineering
+# Projects from Master in Mathematical and Computational Engineering from UOC/URV
